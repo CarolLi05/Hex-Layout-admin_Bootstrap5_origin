@@ -189,10 +189,10 @@ sup {
   top: -.5em; }
 
 a {
-  color: #198754;
+  color: #212529;
   text-decoration: none; }
   a:hover {
-    color: #146c43; }
+    color: #1a1e21; }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
   color: inherit;
@@ -2627,10 +2627,10 @@ textarea.form-control-lg {
 
 .btn-link {
   font-weight: 400;
-  color: #198754;
+  color: #212529;
   text-decoration: none; }
   .btn-link:hover {
-    color: #146c43; }
+    color: #1a1e21; }
   .btn-link:disabled, .btn-link.disabled {
     color: #6c757d; }
 
@@ -3019,13 +3019,13 @@ textarea.form-control-lg {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
-  color: #198754;
+  color: #212529;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out; }
   @media (prefers-reduced-motion: reduce) {
     .nav-link {
       transition: none; } }
   .nav-link:hover, .nav-link:focus {
-    color: #146c43; }
+    color: #1a1e21; }
   .nav-link.disabled {
     color: #6c757d;
     pointer-events: none;
@@ -3710,7 +3710,7 @@ textarea.form-control-lg {
 .page-link {
   position: relative;
   display: block;
-  color: #198754;
+  color: #212529;
   background-color: #fff;
   border: 1px solid #dee2e6;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; }
@@ -3719,12 +3719,12 @@ textarea.form-control-lg {
       transition: none; } }
   .page-link:hover {
     z-index: 2;
-    color: #146c43;
+    color: #1a1e21;
     background-color: #e9ecef;
     border-color: #dee2e6; }
   .page-link:focus {
     z-index: 3;
-    color: #146c43;
+    color: #1a1e21;
     background-color: #e9ecef;
     outline: 0;
     box-shadow: 0 0 0 0.25rem rgba(0, 204, 153, 0.25); }
